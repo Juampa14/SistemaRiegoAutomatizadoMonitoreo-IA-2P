@@ -1,4 +1,4 @@
-﻿id;especie;estado;imagen
-1;rosa;sana;rosa_sana_001.jpg
-2;rosa;estres_leve;rosa_estres_leve_001.jpg
-3;rosa;estres_fuerte;rosa_estres_fuerte_001.jpg
+﻿id;imagen
+1;rosa_sana_001.jpg
+2;rosa_estres_leve_001.jpg
+3;rosa_estres_fuerte_001.jpg
